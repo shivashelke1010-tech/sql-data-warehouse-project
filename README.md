@@ -97,6 +97,15 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Baraa Khatib Salkini**, also known as **Data With Baraa**. I’m an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
+Hi there! I'm **Shivkumar Shelke**, an **Electronics & Communication Engineering student** passionate about **Data, SQL, Programming, and Software Development**.
+
+I enjoy learning new technologies, solving **Data Structures & Algorithms** problems, and working on projects that turn raw data into meaningful insights. Currently, I’m exploring **SQL, Data Warehousing, ETL, C++, and Python** while continuously improving my problem-solving skills.
 
 
+💡 I believe in **learning by building**, so I regularly work on projects and practice coding problems to strengthen my technical skills.
+
+### 🎯 My Goal
+
+To become a skilled **Data/Software Engineer** and build practical solutions that create real-world impact.
+
+> **Learn • Build • Improve • Share 🚀**
