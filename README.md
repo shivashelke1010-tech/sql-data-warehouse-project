@@ -97,15 +97,16 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Shivkumar Shelke**, an **Electronics & Communication Engineering student** passionate about **Data, SQL, Programming, and Software Development**.
+Hi there! I'm **Shivkumar Shelke**, an **Electronics & Communication Engineering student at Visvesvaraya National Institute of Technology (VNIT), Nagpur**.
 
-I enjoy learning new technologies, solving **Data Structures & Algorithms** problems, and working on projects that turn raw data into meaningful insights. Currently, I’m exploring **SQL, Data Warehousing, ETL, C++, and Python** while continuously improving my problem-solving skills.
+I’m passionate about **Data, SQL, Programming, and Software Development**. I enjoy solving **Data Structures & Algorithms** problems and building projects that help me understand how technology and data work together.
 
 
-💡 I believe in **learning by building**, so I regularly work on projects and practice coding problems to strengthen my technical skills.
+💡 I believe in **learning by building** and continuously improving my technical and problem-solving skills through hands-on projects and coding practice.
 
 ### 🎯 My Goal
 
 To become a skilled **Data/Software Engineer** and build practical solutions that create real-world impact.
 
 > **Learn • Build • Improve • Share 🚀**
+
